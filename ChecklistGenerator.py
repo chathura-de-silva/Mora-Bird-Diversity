@@ -1,5 +1,5 @@
 import pandas as pd
-from pylatex import Enumerate, Itemize , Description
+from pylatex import Enumerate, Itemize , Description ,Command
 
 
 def mergeBirdNames(commonName, otherNames):
@@ -26,7 +26,16 @@ for group_name, group_data in dfgrouped:
     
     secondOrderList = Enumerate()
     for index,bird in group_data.iterrows():
-        secondOrderList.add_item(bird["Scientific Name"]+"\n"+mergeBirdNames(bird["Common Name"],bird["Other names"]))
+        dummyList = Description() 
+                                                        #This "Dummylist" is a bulletless list and this is used to
+                                                        #make the scientific name italic while the other names being bold. 
+                                                        #Without using a list like this (See the previous commits.), using only three
+                                                        #levels you cannot make the first line italic and second line of the same bullet 
+                                                        #point bold.
+        
+        dummyList.add_item("",Command("textit",bird["Scientific Name"]))
+        dummyList.add_item("", Command("textbf",mergeBirdNames(bird["Common Name"],bird["Other names"])))
+        secondOrderList.add_item(dummyList)
         thirdOrderList = Description()
        
         thirdOrderList.add_item("H: ",bird["Habitat and Distribution"])
