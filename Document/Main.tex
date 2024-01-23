@@ -1,0 +1,58 @@
+% Packages & Document Configurations
+\documentclass{PLeiriaReport}
+
+% Authors & Supervisor
+\firstauthor{Akila Abeyrathne}
+\firstauthorid{2230455}
+
+\secondauthor{Chathura De Silva}
+\secondauthorid{2230456}
+
+% \thirdauthor{July Smith}
+% \thirdauthorid{2230457}
+
+% \supervisor{Udara Nilaweera}
+% \supervisormail{joe.smith@ipleiria.pt}
+
+% Report Title & Subtitle
+\title{Checklist and Assesment of Bird Species found in University premises of University of Moratuwa}
+\subtitle{Based on newly collected data from 2019 to 2024}
+
+% Filiations
+\university{Volume 1}
+\degree{Nature team of}
+\school{Compiled By}
+\course{University of Moratuwa}
+
+% Local & Date
+% \date{31, \monthname[\month] \number\year} - this is how to put the date if needed.
+\date{\monthname[\month] \number\year}
+
+\begin{document}
+
+% Covers
+\include{Covers/00-Cover}\blankpage
+
+% Roman numeration
+\pagenumbering{roman}
+
+% List of contents
+\tableofcontents\blankpage
+
+% Arabic numeration
+\pagenumbering{arabic}
+
+% Chapters
+\include{Chapters/01-Introduction}
+%include data collection methods and environment in uom.
+\include{Chapters/02-Overview} 
+\include{Chapters/03-Diversity} 
+ %include comparision with older checklist.
+\include{Chapters/04-Comparative}
+\include{Chapters/05-Checklist}
+\include{Chapters/06-Conclusion}
+
+% Bibliography
+\blankpage\printbibliography
+
+\end{document}
