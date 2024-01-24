@@ -33,7 +33,7 @@ for group_name, group_data in dfgrouped:
                                                         #levels you cannot make the first line italic and second line of the same bullet 
                                                         #point bold.
         
-        dummyList.add_item("",Command("textit",bird["Scientific Name"]))
+        dummyList.add_item("",Command("textit",bird["Scientific Name"]+" ("+bird["Conservation Status"]+")"))
         dummyList.add_item("", Command("textbf",mergeBirdNames(bird["Common Name"],bird["Other names"])))
         secondOrderList.add_item(dummyList)
         thirdOrderList = Description()
