@@ -38,7 +38,7 @@ for group_name, group_data in dfgrouped:
         secondOrderList.add_item(dummyList)
         thirdOrderList = Description()
        
-        thirdOrderList.add_item("H: ",bird["Habitat and Distribution"])
+        thirdOrderList.add_item("H: ",bird["Habitat and Distribution"][:-1]+"[2].") #[2] is citation for the bird guide.
         thirdOrderList.add_item("D: ",bird["Diet"])
         thirdOrderList.add_item("R: ",bird["Recorded Area(s)"])
         secondOrderList.append(thirdOrderList)
