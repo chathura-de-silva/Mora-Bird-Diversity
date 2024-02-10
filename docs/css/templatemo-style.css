@@ -249,7 +249,7 @@ nav {
 
 #video-container .video-overlay {
   z-index: 9999;
-  background: rgba(0,0,0,0.5);
+  background: rgba(85, 84, 30,0.25);
   width: 100%;
 }
 
