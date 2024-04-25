@@ -12,21 +12,15 @@
     </picture>
   </p>
 
-# Copyright & License
-
-* Images should be used (separately on anywhere else) only under the permission of the authors/N-team.
-* Publishing or compiling altered versions of the original document with misleading information is not allowed.
-* Proper citation whenever using the original infomation of the document is appreciated.
-(This repository was made public to make the version history available for anyone.)
-
-
 # Releases
 
-Three major releases were taken place. The third version will be the last and the final release.
+Four major releases were taken place as per now.
 
 1. Version 1 - [2024/02/06](https://github.com/chathura-de-silva/Mora-Bird-Diversity/tree/90b7abefd9ce71e4b3a745ed3bfa70afe1ecd1e9)
 2. Version 2 - [2024/02/26](https://github.com/chathura-de-silva/Mora-Bird-Diversity/tree/ae68b394233a084ef3c35393f0fe3d2cbe49013d)
-3. Final Version - [2024/04/01](https://github.com/chathura-de-silva/Mora-Bird-Diversity) 
+3. Version 3 - [2024/04/01](https://github.com/chathura-de-silva/Mora-Bird-Diversity/tree/fa155a0536028179e35c9cf394ab17e9f2288320) 
+4. Final Version - [2024/04/25](https://github.com/chathura-de-silva/Mora-Bird-Diversity) 
+
 
 There are only two sources you should use to download the PDF versions of the original releases.
 * [Onedrive release link](https://chathura-de-silva.github.io/Mora-Bird-Diversity/) (Can be found in the Extended Gallery site)
@@ -40,7 +34,7 @@ There are only two sources you should use to download the PDF versions of the or
   * [Find the used base latex template here.](https://www.overleaf.com/latex/templates/unofficial-polytechnic-university-of-leiria-estg-thesis-slash-report-template/tqgbrncfhwgt)
 
 # Known Issues
-The python script is out of sync with the final document. The naming convention an some details has been changed manually. If any records need to be added,
+The python script and `uomBirds.xlsx` is out of sync with the final document. The naming convention an some details has been changed manually. If any records need to be added,
 1.  Add them as a record in the `uomBirds.xlsx`.
 2. Run the `checkListGenerator.py`
 3. Manually copy and paste the relavant code snippets inside the `checklist.tex`.
@@ -52,3 +46,10 @@ The python script is out of sync with the final document. The naming convention 
 :-------------------------:|:-------------------------:|:-------------------------:
 <img width="1604" alt="Gallery Image" src="./Document/Figures/flameback.JPG">  |  <img width="1604" alt="Gallery Image" src="./Document/Figures/kingfisher.JPG">|<img width="1604" alt="Gallery Image" src="./Document/Figures/imperial-pigeon.JPG">
 <img width="1604" alt="Gallery Image" src="./Document/Figures/pipit.JPG">  |  <img width="1604" alt="Gallery Image" src="./Document/Figures/pond-heron.JPG">|<img width="1604" alt="Gallery Image" src="./Document/Figures/stork-billed.JPG">
+
+# Copyright & License
+
+* Images should be used (separately on anywhere else) only under the permission of the authors/N-team.
+* Publishing or compiling altered versions of the original document with misleading information is not allowed.
+* Proper citation whenever using the original infomation of the document is appreciated.
+(This repository was made public to make the version history available for anyone.)
