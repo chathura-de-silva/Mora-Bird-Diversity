@@ -21,7 +21,9 @@ Six major releases were taken place as per now.
 3. Version 3 - [2024/04/01](https://github.com/chathura-de-silva/Mora-Bird-Diversity/tree/fa155a0536028179e35c9cf394ab17e9f2288320) 
 4. Version 4 - [2024/04/25](https://github.com/chathura-de-silva/Mora-Bird-Diversity/tree/0c5497bd0b695e2e847b7d30e2777fc1b4bf55aa) 
 5. Version 5 - [2024/05/17](https://github.com/chathura-de-silva/Mora-Bird-Diversity/tree/6e412e6b537e0ee129cdd018a6a7de984c1ee9c7) 
-6. Final Version - [2024/08/28](https://github.com/chathura-de-silva/Mora-Bird-Diversity)
+6. Final Version - [2024/08/28](https://github.com/chathura-de-silva/Mora-Bird-Diversity/tree/02245de2aa3fd42b090e23b67cbde26d1060c89e)
+
+7. Extended Version - [2026/07/09](https://chathura-de-silva.github.io/Mora-Bird-Diversity/) (Extended Gallery site)
 
 There are only two sources you should use to download the PDF versions of the original releases.
 * [Onedrive release link](https://chathura-de-silva.github.io/Mora-Bird-Diversity/) (Can be found in the Extended Gallery site)
@@ -45,9 +47,9 @@ The python script and `uomBirds.xlsx` is out of sync with the final document. Th
 
 #  Gallery
 
-<img width="1604" alt="Gallery Image" src="./Document/Figures/brown-shrike.JPG"> |  <img width="1604" alt="Gallery Image" src="./Document/Figures/swamp-hen.JPG"> |<img width="1604" alt="Gallery Image" src="./Document/Figures/brahmini-kite.JPG">
+<img width="1604" alt="Gallery Image" src="./Document/Figures/brown-shrike.JPG"> |  <img width="1604" alt="Gallery Image" src="./Document/Figures/ohthrush.JPG"> |<img width="1604" alt="Gallery Image" src="./Document/Figures/brahmini-kite.JPG">
 :-------------------------:|:-------------------------:|:-------------------------:
-<img width="1604" alt="Gallery Image" src="./Document/Figures/flameback.JPG">  |  <img width="1604" alt="Gallery Image" src="./Document/Figures/kingfisher.JPG">|<img width="1604" alt="Gallery Image" src="./Document/Figures/imperial-pigeon.JPG">
+<img width="1604" alt="Gallery Image" src="./Document/Figures/flameback.JPG">  |  <img width="1604" alt="Gallery Image" src="./Document/Figures/lynape.JPG">|<img width="1604" alt="Gallery Image" src="./Document/Figures/imperial-pigeon.JPG">
 <img width="1604" alt="Gallery Image" src="./Document/Figures/pipit.JPG">  |  <img width="1604" alt="Gallery Image" src="./Document/Figures/pond-heron.JPG">|<img width="1604" alt="Gallery Image" src="./Document/Figures/stork-billed.JPG">
 
 # Copyright & License
