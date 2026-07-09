@@ -47,9 +47,9 @@ The python script and `uomBirds.xlsx` is out of sync with the final document. Th
 
 #  Gallery
 
-<img width="1604" alt="Gallery Image" src="./Document/Figures/brown-shrike.JPG"> |  <img width="1604" alt="Gallery Image" src="./Document/Figures/ohthrush.JPG"> |<img width="1604" alt="Gallery Image" src="./Document/Figures/brahmini-kite.JPG">
+<img width="1604" alt="Gallery Image" src="./Document/Figures/brown-shrike.JPG"> |  <img width="1604" alt="Gallery Image" src="./Document/Figures/ohthrush.jpg"> |<img width="1604" alt="Gallery Image" src="./Document/Figures/brahmini-kite.JPG">
 :-------------------------:|:-------------------------:|:-------------------------:
-<img width="1604" alt="Gallery Image" src="./Document/Figures/flameback.JPG">  |  <img width="1604" alt="Gallery Image" src="./Document/Figures/lynape.JPG">|<img width="1604" alt="Gallery Image" src="./Document/Figures/imperial-pigeon.JPG">
+<img width="1604" alt="Gallery Image" src="./Document/Figures/flameback.JPG">  |  <img width="1604" alt="Gallery Image" src="./Document/Figures/lynape.jpg">|<img width="1604" alt="Gallery Image" src="./Document/Figures/imperial-pigeon.JPG">
 <img width="1604" alt="Gallery Image" src="./Document/Figures/pipit.JPG">  |  <img width="1604" alt="Gallery Image" src="./Document/Figures/pond-heron.JPG">|<img width="1604" alt="Gallery Image" src="./Document/Figures/stork-billed.JPG">
 
 # Copyright & License
